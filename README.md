@@ -1,4 +1,4 @@
-# Wedge Investigation
+# Wedge Exploration
 
 There are a couple of files here: 
 
